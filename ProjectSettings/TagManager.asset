@@ -6,6 +6,12 @@ TagManager:
   tags:
   - Square1
   - Square2
+  - bodySquare1
+  - bodySquare2
+  - Player1
+  - Player2
+  - bodyPlayer1
+  - bodyPlayer2
   layers:
   - Default
   - TransparentFX
